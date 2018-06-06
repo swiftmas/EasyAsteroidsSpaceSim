@@ -1,0 +1,10 @@
+//// IMG /////////////////////////////////////////////////////////////
+map1 = new Image();
+map1.src = 'images/background.png';
+map2 = new Image();
+map2.src = 'static/top.png';
+///////////////////////////////////////////
+charsprites = new Image();
+charsprites.src = 'images/pixels.png';
+////////////////////////////////////////////////////////////////////////////
+//var snd = new Audio("static/sisch.mp3"); // buffers automatically when created
